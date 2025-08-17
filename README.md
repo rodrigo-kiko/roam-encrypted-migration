@@ -87,10 +87,11 @@ python roam_migration.py \
 
 ### Step 1: Export Your Roam Graph
 
-1. In Roam Research, click the three dots menu → Export
+1. In Roam Research, click the three dots menu → Export All
 2. Choose "JSON" format
 3. Select "Export all"
 4. Download and extract the ZIP file
+5. In Roam Research, click the three dots menu → Settings → Files → Download All Files
 
 You'll get a folder structure like:
 ```
