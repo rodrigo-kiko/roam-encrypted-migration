@@ -191,4 +191,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for the Roam Research community**
+**Made with ❤️ for the all the "#TFT" (Tools for Thought) community**
