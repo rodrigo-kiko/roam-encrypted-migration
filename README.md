@@ -10,7 +10,7 @@ A comprehensive solution for migrating encrypted Roam Research graphs while pres
 
 When you export an encrypted Roam Research graph:
 1. The backup is decrypted during export (which is good)
-2. All media files (images, PDFs, etc.) are exported to a local folder
+2. You also have to manually export all media files (images, PDFs, etc.) to a local folder
 3. **BUT** the links in the JSON still point to encrypted Firebase URLs (`.enc` files)
 4. When you import this backup, all media files appear broken
 
